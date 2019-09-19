@@ -1,7 +1,15 @@
+
 ul{
     text-align: center;
 
 }
 li{
+    padding: 10px;
+    font-size: 25px;
     display: inline;
+}
+img{
+    float: center;
+    display: inline;
+    padding: 5px;
 }
