@@ -1,13 +1,3 @@
-
-h1{
-    font-family: 'Staatliches', cursive;
-    padding: 15px 5px 5px 15px;
-    font-size: 35px;
-}
-ul{
-    padding-top: 25px;
-    text-align: center;
-
 }
 li{
     font-family: 'Staatliches', cursive;
@@ -32,8 +22,8 @@ img:hover{
 }
 .images{
     padding-top: 30px;
-    padding-left: 100px;
-    padding-right: 150px;
+    padding-left: 225px;
+    padding-right: 125px;
 }
 a{
     color: black;
