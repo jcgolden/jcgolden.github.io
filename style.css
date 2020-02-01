@@ -1,6 +1,6 @@
 h1{
     font-family: 'Staatliches', cursive;
-    padding: 15px 5px 5px 15px;
+    padding: 0px 5px 5px 0px;
     font-size: 35px;
 }
 ul{
@@ -19,9 +19,8 @@ li{
     display: inline;
 }
 img{
-    float: center;
-    display: inline;
-    padding: 50px;
+    margin-left: 25px;
+    padding: 25px;
     transition: transform .5s;
 }
 img:hover{
@@ -33,11 +32,7 @@ img:hover{
     font-size: 25px;
     padding: 0px 0px 0px 45px;
 }
-.images{
-    padding-top: 30px;
-    padding-left: 225px;
-    padding-right: 125px;
-}
+
 a{
     color: black;
     text-decoration: none;
